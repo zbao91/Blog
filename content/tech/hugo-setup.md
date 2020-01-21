@@ -4,7 +4,7 @@ date: 2020-01-17T18:23:30+08:00
 draft: false
 author: Dave
 tags: ["Tech"]
-categories: ["tech", "life"]
+categories: ["tech"]
 ---
 
 ## 前言
