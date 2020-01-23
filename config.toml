@@ -1,3 +1,4 @@
+
 baseURL = "https://zbao91.github.io"
 title   = "努力生活"
 
@@ -138,4 +139,3 @@ disableHugoGeneratorInject = false
     identifier = "about"
     name       = "About"
     url        = "about/"
-
